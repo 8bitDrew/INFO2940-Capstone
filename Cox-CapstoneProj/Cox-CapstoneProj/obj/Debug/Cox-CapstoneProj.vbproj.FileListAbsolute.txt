@@ -1,0 +1,16 @@
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\bin\Debug\Cox-CapstoneProj.exe.config
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\bin\Debug\Cox-CapstoneProj.exe
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\bin\Debug\Cox-CapstoneProj.pdb
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\bin\Debug\Cox-CapstoneProj.xml
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\bin\Debug\MySql.Data.dll
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\obj\Debug\Cox-CapstoneProj.vbprojResolveAssemblyReference.cache
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\obj\Debug\Cox_CapstoneProj.Form1.resources
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\obj\Debug\Cox_CapstoneProj.frmMain.resources
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\obj\Debug\Cox_CapstoneProj.frmProducts.resources
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\obj\Debug\Cox_CapstoneProj.Resources.resources
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\obj\Debug\Cox-CapstoneProj.vbproj.GenerateResource.Cache
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\obj\Debug\Cox-CapstoneProj.exe
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\obj\Debug\Cox-CapstoneProj.xml
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\obj\Debug\Cox-CapstoneProj.pdb
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\obj\Debug\Cox_CapstoneProj.frmClients.resources
+C:\Users\Drew\Desktop\Cox-CapstoneProj\Cox-CapstoneProj\obj\Debug\Cox_CapstoneProj.frmOrders.resources
